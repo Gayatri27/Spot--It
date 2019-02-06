@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geo-project-217519",
+  "private_key_id": "f2357868c26a8e6152b6412ca6d61032835aa4ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1sTC/dVoSa+2i\nyNSYBZUPggrCZl63OcUHulkMk5MdfsIF8zxJh6mjPjjjXKgq90uUJktC81qDQQA1\nyXYOAdzVRVW5o08Ylj9kp0q+4BULjNmJT1vcPnd+vy97prWU9gQl7OSjDWxCgdIF\nBwDaMsWAhNbld6M2lXbeTNgBX3IR+eLE1cmHu3WSrDGYBTclOn5/1v/5WJXJ/Sfo\ndgGWYsYoDgptt4U4beaAJ1I1xFcWWgWg2ePpByBuqfl8X27prcp9G0JK+p2w53hG\nM77BikmYU+q/GDBAEfjyLH0uJOFQAOyU2ja+y5scNnvsMCVo9WGw8XGOz89Qsna0\nM+f02ZYTAgMBAAECggEAK+KUATKhomByQgbbHqr+gYPqAGGEkCICfqbaemisuIuU\n5qYFEkeTyEuvpu8K6XHYzfxf4lhwLNLG77bs7l4xzkuUdKXG5Yvo3PFxYuAyBRus\nsXc7G1v1NeaM3AN8yXGQt+5bnSyRUREVPsSdxpZL0QqE82DtybHZR8FszQwWO9Pk\n45zYvdP+Xt4DtLAUKPkKsG5ejhHBSvCDyOLXDVRGZ/r9TYrt0GxS2f5uaIul8h5w\n30YHigsfpB4Of71K9s8f2ejzLPduU8tWat1uhlRLDC3shb8r6Qm+PBd4o38hguU8\n6aWcWHRJRKgjj0XFVsqgcA6Kav9mE1xdBr0ZJypqEQKBgQDdO2IzksSZV+NKdvNz\nprc/uOSMCqbPZ8sQTZd8Ng50a2lGHKVnA1n1yGHzkesCocoyDqx5drc92VG8CdM4\nbQqJHd3l6E76CUrZQD9ubICuu+qGDnbq7J8zGXm9f1+Xv0/dgcIBWRjJqr0GU0Cr\nxH/qAq/Ho6sK1qYl+DxEYYk6MQKBgQDSPwntGURzsaMbXuIv5YLSdp4+ZRZL29rt\ngo1WPUEecTOMPyXoPAvCwD2e5KJopnahTc1nVxuIQcmASG4jGDbTSVAvIOVWYTHd\nOhSJ+WhzF/mRAerFgzod4h2DyfnrjAF2d1i0ODxmk89QlqRHs4QPMDGIQVQ3R6wZ\nkZoVcMr/gwKBgQDP9y3WO2bSm5rPekha9GKY5U77ElxC5lguaDI6Enq+F+argOw/\njRf5AziJBid8nuh66+5YdC/HVU4PTNEg3ugjg07/+8SaKTgSR+IZBKhnGcFZ6akC\nKBNzrsQRTfZnqPED0iG0sLOrh/QPSR2nGp4ANixVqFZ2ZtdjJBpLUcD1UQKBgFrF\nmryCJzqoHBqqGY/CUHwbeHDJ5hl0X44hynHMWnwRNcc8UFp26kD4DOK4JaJ3FErK\nM3+FbT6j4KKBIwQF5U3Nnk/qrPlhV00DUXDMfJsMY9SGdl02LfZO9J08q6lVth/2\noRaWHQXQlTZfA6htSfvgu9HvGrQPPq9/XH4bR5mPAoGABGugBlAC+Gn333sCfFl4\nc+ZBI5LcG1FQIzMUt2QDBUqJNh6e+Jknkr7EuNP+suy20iPvLlwJH6zWtXZA5uCw\n0abVItlLP0UPLS/zVbmh1JCpVdr+xaKi8Fd2fGR6Kgby6IWyADGyHCL+WjoaBU2A\nYBtfRb8DVGShkWmUK31wKdI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-newac@geo-project-217519.iam.gserviceaccount.com",
+  "client_id": "108171305751418081431",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-newac%40geo-project-217519.iam.gserviceaccount.com"
+}
